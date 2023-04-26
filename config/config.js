@@ -1,7 +1,7 @@
 const config = {
     secret_jwt : "undefined",
     emailUser:"kunalrisaanva12@gmail.com",
-    emailPassword:"nqbeneiwrarvuazo"
+    emailPassword:"you email app password"
 
 }
 
